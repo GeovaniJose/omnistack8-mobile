@@ -6,5 +6,6 @@
     "titleBar.inactiveForeground": "#15202b99",
     "tab.activeBorder": "#10fa79"
   },
-  "peacock.color": "#04d361"
+  "peacock.color": "#04d361",
+  "eslint.enable": false
 }
