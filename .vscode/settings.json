@@ -7,5 +7,5 @@
     "tab.activeBorder": "#10fa79"
   },
   "peacock.color": "#04d361",
-  "eslint.enable": false
+  "eslint.enable": true
 }
